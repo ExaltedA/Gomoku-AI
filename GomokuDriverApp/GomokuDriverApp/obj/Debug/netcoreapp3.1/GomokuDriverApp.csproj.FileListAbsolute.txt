@@ -1,0 +1,12 @@
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\bin\Debug\netcoreapp3.1\GomokuDriverApp.exe
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\obj\Debug\netcoreapp3.1\GomokuDriverApp.AssemblyInfoInputs.cache
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\obj\Debug\netcoreapp3.1\GomokuDriverApp.AssemblyInfo.cs
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\obj\Debug\netcoreapp3.1\GomokuDriverApp.csproj.CoreCompileInputs.cache
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\bin\Debug\netcoreapp3.1\GomokuDriverApp.deps.json
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\bin\Debug\netcoreapp3.1\GomokuDriverApp.runtimeconfig.json
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\bin\Debug\netcoreapp3.1\GomokuDriverApp.runtimeconfig.dev.json
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\bin\Debug\netcoreapp3.1\GomokuDriverApp.dll
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\bin\Debug\netcoreapp3.1\GomokuDriverApp.pdb
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\obj\Debug\netcoreapp3.1\GomokuDriverApp.dll
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\obj\Debug\netcoreapp3.1\GomokuDriverApp.pdb
+C:\Users\aldie\source\repos\GomokuDriverApp\GomokuDriverApp\obj\Debug\netcoreapp3.1\GomokuDriverApp.genruntimeconfig.cache
